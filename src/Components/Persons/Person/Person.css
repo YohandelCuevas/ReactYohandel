@@ -1,0 +1,8 @@
+.pContainer{
+  display: inline-block;
+  padding-right: 40px;
+  text-align: center;
+  margin: 16px;
+  border: 1px solid black;
+  box-shadow: 3px 5px 2px grey;
+}
